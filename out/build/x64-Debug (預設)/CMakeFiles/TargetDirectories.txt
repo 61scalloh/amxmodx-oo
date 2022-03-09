@@ -1,0 +1,7 @@
+C:/Users/green/Documents/GitHub/amxmodx-oo/out/build/x64-Debug (預設)/CMakeFiles/edit_cache.dir
+C:/Users/green/Documents/GitHub/amxmodx-oo/out/build/x64-Debug (預設)/CMakeFiles/rebuild_cache.dir
+C:/Users/green/Documents/GitHub/amxmodx-oo/out/build/x64-Debug (預設)/sdk/CMakeFiles/edit_cache.dir
+C:/Users/green/Documents/GitHub/amxmodx-oo/out/build/x64-Debug (預設)/sdk/CMakeFiles/rebuild_cache.dir
+C:/Users/green/Documents/GitHub/amxmodx-oo/out/build/x64-Debug (預設)/src/CMakeFiles/oo_amxx.dir
+C:/Users/green/Documents/GitHub/amxmodx-oo/out/build/x64-Debug (預設)/src/CMakeFiles/edit_cache.dir
+C:/Users/green/Documents/GitHub/amxmodx-oo/out/build/x64-Debug (預設)/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# ninja log v5
+19	575	668534240	src/CMakeFiles/oo_amxx.dir/oo_amxx.cpp.obj	4a3297c43b2cc70
+15	609	668534267	src/CMakeFiles/oo_amxx.dir/oo_amxx.cpp.obj	2f388b2cc5fdcd3b
+1	315	668534334	src/CMakeFiles/oo_amxx.dir/__/sdk/amxxmodule.cpp.obj	f6f701e5e117319
+866	2290	668534336	src/oo_amxx.dll	e8c023e1b85caccd
+866	2290	668534336	src/oo_amxx.lib	e8c023e1b85caccd
